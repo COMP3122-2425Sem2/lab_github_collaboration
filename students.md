@@ -11,6 +11,17 @@
 
 === Copy the above template and paste below and edit it ===
 
+
+## Paulina Veselinova Lyateva
+Hello, I'm Paulina.
+
+[My Github account](http://www.github.com/Lyateva/)
+
+[My fork of lab_github_collaboration](https://github.com/Lyateva/lab_github_collaboration)
+
+=== Do not modify the content above===
+
+
 ## Richard Lui
 hi i'm richard
 
@@ -29,13 +40,11 @@ Hello! I am Zheng Shouwen. You can call me Peter.
 
 [Include the link of you Github page here using the syntax shown above]
 [Task1 ](https://github.com/freeeast/COMP_3122_ex1.git)
-=======
 
 
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
-
 
 
 ## Ching Chun Hung
@@ -44,5 +53,3 @@ I am Ching Chun Hung
 [My Github account](https://github.com/SouirTommer)
 
 === Do not modify the content below ===
-
-
