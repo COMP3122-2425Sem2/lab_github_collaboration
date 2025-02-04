@@ -14,7 +14,7 @@
 === Do not modify the content below ===
 
 ## Vincent
-[Briefly introduce yourself]
+I have worked for a semiconductor company as a SWE and I am going to work for a hedge fund. So, be my groupmate!
 
 [My Github account](http://www.github.com/put-your-github-username-here/](https://github.com/veincentPolyu))
 
