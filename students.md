@@ -1,11 +1,11 @@
 === Do not modify the content below ===
 
-## [Add your name here]
-[Briefly introduce yourself]
+## Choi SIu Kwan
+Hiiiiiiiiiii
 
-[My Github account](http://www.github.com/put-your-github-username-here/)
+[My Github account](http://www.github.com/choisiukwan1234
 
-[Include the link of you Github page here using the syntax shown above]
+[Github Page] https://github.com/choisiukwan1234/comp_lab3
 
 === Do not modify the content above===
 
