@@ -10,3 +10,18 @@
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
+
+=== Do not modify the content below ===
+
+## Valerie Liu
+Hi, I am Valerie LIU, 21072592D. 
+
+[My Github account](https://github.com/valeyggg88)
+
+[Include the link of you Github page here using the syntax shown above]
+https://valeyggg88.github.io/my_github_page/ 
+
+=== Do not modify the content above===
+
+=== Copy the above template and paste below and edit it ===
+
