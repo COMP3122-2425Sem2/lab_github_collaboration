@@ -1,9 +1,9 @@
 === Do not modify the content below ===
 
-## [Add your name here]
-[Briefly introduce yourself]
+## [TANGHAICHUAN]
+[I LIKE PLAY GAMES]
 
-[My Github account](http://www.github.com/put-your-github-username-here/)
+[My Github account](https://github.com/Walter-tang-eng/)
 
 [Include the link of you Github page here using the syntax shown above]
 
