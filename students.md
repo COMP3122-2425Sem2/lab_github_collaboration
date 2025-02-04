@@ -11,6 +11,14 @@
 
 === Copy the above template and paste below and edit it ===
 
+## [Lin Yan]
+[I am a boy and I like play the computer games.]
+
+[My Github account](http://www.github.com/lyxsq99/)
+
+[[Include the link of you Github page here using the syntax shown above](https://lyxsq99.github.io/my_github_page/)]
+=======
+
 ## Richard Lui
 hi i'm richard
 
@@ -44,5 +52,6 @@ I am Ching Chun Hung
 [My Github account](https://github.com/SouirTommer)
 
 === Do not modify the content below ===
+
 
 
