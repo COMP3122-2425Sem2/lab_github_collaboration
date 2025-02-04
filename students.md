@@ -15,6 +15,6 @@
 
 I am wan hoi nam
 
-[My Github account](http://www.github.com/Nataww/)
+[My Github account](http://www.github.com/Nataww)
 
-[https://nataww.github.io/isd_ex1/]
+[https://nataww.github.io/isd_ex1]
