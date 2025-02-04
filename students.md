@@ -43,6 +43,11 @@ I am Ching Chun Hung
 
 [My Github account](https://github.com/SouirTommer)
 
+## Lam Ching Hei
+
+I am Lam Ching Hei
+[My Github account](https://github.com/LAMHeiok)
+
 === Do not modify the content below ===
 
 
