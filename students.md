@@ -11,6 +11,14 @@
 
 === Copy the above template and paste below and edit it ===
 
+
+## [Lai Kit Lun]
+I am Lai Kit Lun.
+
+[My Github account](http://www.github.com/kenlai02814/)
+
+[Include the link of you Github page here using the syntax shown above]
+=======
 ## Richard Lui
 hi i'm richard
 
@@ -29,12 +37,12 @@ Hello! I am Zheng Shouwen. You can call me Peter.
 
 [Include the link of you Github page here using the syntax shown above]
 [Task1 ](https://github.com/freeeast/COMP_3122_ex1.git)
-=======
 
 
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
+
 
 
 
