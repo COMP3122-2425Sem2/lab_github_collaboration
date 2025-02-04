@@ -11,6 +11,7 @@
 
 === Copy the above template and paste below and edit it ===
 
+
 ## Richard Lui
 hi i'm richard
 
@@ -46,3 +47,11 @@ I am Ching Chun Hung
 === Do not modify the content below ===
 
 
+
+
+## Leung Man Yi
+Hi, I'm Leandra Leung
+
+[My Github account](http://www.github.com/LeandraLeung/)
+
+[My Github page](https://leandraleung.github.io/my_github/) 
