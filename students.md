@@ -16,6 +16,6 @@ I am Leung Cheuk Kit.
 
 [My Github account](https://github.com/jackycsbeginner/)
 
-[Include the link of you Github page here using the syntax shown above]
+[My Github page](https://jackycsbeginner.github.io/week3/)
 
 === Do not modify the content above===
