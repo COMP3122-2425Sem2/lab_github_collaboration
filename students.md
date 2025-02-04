@@ -24,3 +24,9 @@ hi i'm richard
 
 === Copy the above template and paste below and edit it ===
 
+## Fergus Li
+hi i'm fergus
+
+[My Github account](http://www.github.com/FL-1001)
+
+[My Github page](https://FL-1001.github.io/my_github_page/)
