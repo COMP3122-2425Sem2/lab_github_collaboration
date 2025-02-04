@@ -10,3 +10,11 @@
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
+
+## Lam Chi Kin
+I am Lam Chi Kin
+[My Github account](http://www.github.com/fatkin1012/)
+
+https://fatkin1012.github.io/COMP3122/
+
+=== Do not modify the content above===
