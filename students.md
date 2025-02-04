@@ -10,3 +10,18 @@
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
+
+
+## Tam Chi Ka
+I am Chris
+
+[My Github account](https://github.com/Chris12420)
+
+https://github.com/Chris12420/Lab2_23029585d
+
+[Include the link of you Github page here using the syntax shown above]
+
+=== Do not modify the content above===
+
+=== Copy the above template and paste below and edit it ===
+
