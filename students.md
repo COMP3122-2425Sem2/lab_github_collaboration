@@ -10,3 +10,9 @@
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
+## [Lin Yan]
+[I am a boy and I like play the computer games.]
+
+[My Github account](http://www.github.com/lyxsq99/)
+
+[Include the link of you Github page here using the syntax shown above]
