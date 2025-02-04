@@ -11,13 +11,22 @@
 
 === Copy the above template and paste below and edit it ===
 
+## Tam Chi Ka
+I am Chris
+
+[My Github account](https://github.com/Chris12420)
+
+https://github.com/Chris12420/Lab2_23029585d
+
+[Include the link of you Github page here using the syntax shown above]
+
+
 ## Richard Lui
 hi i'm richard
 
 [My Github account](http://www.github.com/cswclui)
 
 [My Github page](https://cswclui.github.io/my_github_page/)
-
 
 
 === Do not modify the content below ===
@@ -31,11 +40,9 @@ Hello! I am Zheng Shouwen. You can call me Peter.
 [Task1 ](https://github.com/freeeast/COMP_3122_ex1.git)
 =======
 
-
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
-
 
 
 ## Ching Chun Hung
@@ -44,5 +51,4 @@ I am Ching Chun Hung
 [My Github account](https://github.com/SouirTommer)
 
 === Do not modify the content below ===
-
 
