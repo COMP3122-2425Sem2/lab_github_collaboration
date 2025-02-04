@@ -11,7 +11,7 @@
 
 === Copy the above template and paste below and edit it ===
 ## Keitu Fung
-Halooooooo heyo
+Halooooooo I'm Keitu
 
 [My Github account](http://www.github.com/Keitu-fung)
 
