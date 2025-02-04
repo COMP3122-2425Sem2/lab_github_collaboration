@@ -10,6 +10,12 @@
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
+## Keitu Fung
+Halooooooo I'm Keitu
+
+[My Github account](http://www.github.com/Keitu-fung)
+
+[[Include the link of you Github page here using the syntax shown above](https://keitu-fung.github.io/my_github_page1/)]
 
 ## Richard Lui
 hi i'm richard
