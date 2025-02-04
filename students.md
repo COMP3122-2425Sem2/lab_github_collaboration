@@ -15,4 +15,5 @@
 
 [My Github account](http://www.github.com/lyxsq99/)
 
-[Include the link of you Github page here using the syntax shown above]
+[[Include the link of you Github page here using the syntax shown above](https://lyxsq99.github.io/my_github_page/)]
+
