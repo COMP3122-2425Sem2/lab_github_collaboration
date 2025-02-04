@@ -13,6 +13,6 @@
 ## Ngai Pan (22096947d)
 Hello I am Jacky 
 
-[My Github account](https://jackyngaipan01.github.io/New_Project/)
+[My Github account](http://www.github.com/jackyngaipan01)
 
-[Include the link of you Github page here using the syntax shown above]
+[My Github link](https://jackyngaipan01.github.io/New_Project/)
