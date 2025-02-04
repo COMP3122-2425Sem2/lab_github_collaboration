@@ -10,3 +10,12 @@
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
+
+## Paulina Veselinova Lyateva
+Hello, I'm Paulina.
+
+[My Github account](http://www.github.com/Lyateva/)
+
+[My fork of lab_github_collaboration](https://github.com/Lyateva/lab_github_collaboration)
+
+=== Do not modify the content above===
