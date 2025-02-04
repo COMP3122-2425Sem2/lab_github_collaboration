@@ -18,7 +18,7 @@ Hi, I am Valerie LIU, 21072592D.
 
 [My Github account](https://github.com/valeyggg88)
 
-[My Github page] (https://valeyggg88.github.io/my_github_page/)
+[My Github page](https://valeyggg88.github.io/my_github_page/)
 
 === Do not modify the content above===
 
