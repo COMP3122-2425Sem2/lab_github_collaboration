@@ -15,4 +15,4 @@ I am wan hoi nam
 
 [My Github account](http://www.github.com/Nataww/)
 
-[https://nataww.github.io/isd_exercise1/]
+[https://nataww.github.io/isd_ex1/]
