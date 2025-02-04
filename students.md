@@ -11,7 +11,4 @@
 
 === Copy the above template and paste below and edit it ===
 
-[[My Github account](https://github.com/CarterWuu)
-
-[Include the link of you Github page here using the syntax shown above]
-]
+[My Github account](https://github.com/CarterWuu)
