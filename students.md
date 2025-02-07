@@ -1,6 +1,6 @@
 === Do not modify the content below ===
 
-## [WU Chao]
+## WU Chao
 Hi, my name is Carter, nice to meet you .
 
 [My Github account](https://github.com/CarterWuu)  
