@@ -1,11 +1,9 @@
 === Do not modify the content below ===
 
 ## [WU Chao]
-[Briefly introduce yourself]
+Hi, my name is Carter, nice to meet you .
 
 [My Github account](http://www.github.com/put-your-github-username-here/)
-
-[Include the link of you Github page here using the syntax shown above]
 
 === Do not modify the content above===
 
