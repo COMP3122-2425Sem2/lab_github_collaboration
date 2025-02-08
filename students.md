@@ -11,12 +11,12 @@
 
 === Copy the above template and paste below and edit it ===
 
-## Richard Lui
-hi i'm richard
+## Lam Kin Wing
+I am Lam Kin Wing
 
-[My Github account](http://www.github.com/cswclui)
+[My Github account](https://github.com/itlamsam)
 
-[My Github page](https://cswclui.github.io/my_github_page/)
+[My Github page](https://itlamsam.github.io/comp3122-lab1/)
 
 
 
