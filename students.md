@@ -45,4 +45,9 @@ I am Ching Chun Hung
 
 === Do not modify the content below ===
 
+## Lam Lok Kan
+I am Lam Lok Kan
 
+[My Github account](http://www.github.com/dreamcat1067/)
+
+[My Github page](https://dreamcat1067.github.io/COMP3122-Class-Exercise-1/)
