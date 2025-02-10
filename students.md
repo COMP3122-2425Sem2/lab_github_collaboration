@@ -1,4 +1,4 @@
-## [21105863D TANGHAICHUAN]
+## TANGHAICHUAN
 I am TANG HAICHUAN, I LIKE PLAYING GAMES.
 
 [My Github account](https://github.com/Walter-tang-eng)
@@ -6,6 +6,5 @@ I am TANG HAICHUAN, I LIKE PLAYING GAMES.
 [Include the link of you Github page here using the syntax shown above]
 
 [My Github page link](https://walter-tang-eng.github.io/Walter/).
-=== Do not modify the content above===
 
 
