@@ -11,21 +11,10 @@
 
 === Copy the above template and paste below and edit it ===
 
-## Richard Lui
-hi i'm richard
+## Tang Haichuan
+Hello! I am Tang Haichuan. You can call me Walter.
 
-[My Github account](http://www.github.com/cswclui)
-
-[My Github page](https://cswclui.github.io/my_github_page/)
-
-
-
-=== Do not modify the content below ===
-
-## Zheng Shouwen
-Hello! I am Zheng Shouwen. You can call me Peter.
-
-[My Github account](http://www.github.com/freeeast/)
+[My Github account](https://github.com/Walter-tang-eng)
 
 [Include the link of you Github page here using the syntax shown above]
 [Task1 ](https://github.com/freeeast/COMP_3122_ex1.git)
@@ -33,29 +22,3 @@ Hello! I am Zheng Shouwen. You can call me Peter.
 
 
 === Do not modify the content above===
-
-=== Copy the above template and paste below and edit it ===
-
-
-
-## Ching Chun Hung
-I am Ching Chun Hung
-
-[My Github account](https://github.com/SouirTommer)
-
-=== Do not modify the content below ===
-
-=== Do not modify the content below ===
-
-## TANG HAICHUAN
-hi i'm Walter
-
-[My Github account](https://github.com/Walter-tang-eng)
-
-[My Github page](https://walter-tang-eng.github.io/Walter/)
-
-=== Do not modify the content above===
-
-=== Copy the above template and paste below and edit it ===
-
-
