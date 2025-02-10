@@ -1,12 +1,11 @@
-=== Do not modify the content below ===
-
 ## [21105863D TANGHAICHUAN]
-[I LIKE PLAY GAMES]
+I am TANG HAICHUAN, I LIKE PLAYING GAMES.
 
-[My Github account](https://github.com/Walter-tang-eng/)
+[My Github account](https://github.com/Walter-tang-eng)
 
 [Include the link of you Github page here using the syntax shown above]
 
+[My Github page link](https://walter-tang-eng.github.io/Walter/).
 === Do not modify the content above===
 
-=== Copy the above template and paste below and edit it ===
+
