@@ -17,8 +17,5 @@ Hello! I am Tang Haichuan. You can call me Walter.
 [My Github account](https://github.com/Walter-tang-eng)
 
 [Include the link of you Github page here using the syntax shown above]
-[Task1 ](https://github.com/freeeast/COMP_3122_ex1.git)
-=======
-
 
 === Do not modify the content above===
