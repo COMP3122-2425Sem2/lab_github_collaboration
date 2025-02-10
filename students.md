@@ -1,5 +1,17 @@
 === Do not modify the content below ===
 
+[Add your name here]
+
+[Briefly introduce yourself]
+
+My Github account
+
+[Include the link of you Github page here using the syntax shown above]
+
+=== Do not modify the content above===
+
+=== Copy the above template and paste below and edit it ===
+
 ## CHEN Tsz Kei
 Hello,this is Annice.
 
