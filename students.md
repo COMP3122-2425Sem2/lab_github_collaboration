@@ -1,7 +1,7 @@
 === Do not modify the content below ===
 
 ## Joshua LAM
-[Briefly introduce yourself]Hello, this is Joshua LAM. A year 4 computing student. Nice to meet you all!
+Hello, this is Joshua LAM. A year 4 computing student. Nice to meet you all!
 
 [My Github account](https://joshualam21.github.io/COMP3122_LEC1/)
 
