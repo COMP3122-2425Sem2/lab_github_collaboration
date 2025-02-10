@@ -1,11 +1,11 @@
 === Do not modify the content below ===
 
-## [Add your name here]
-[Briefly introduce yourself]
+## Joshua LAM
+Hello, this is Joshua LAM. A year 4 computing student. Nice to meet you all!
 
-[My Github account](http://www.github.com/put-your-github-username-here/)
+[My Github account](https://joshualam21.github.io/COMP3122_LEC1/)
 
-[Include the link of you Github page here using the syntax shown above]
+[An image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebxknCbWJyGS5Q4tkUxX9sNflZhfWzCdZthQSlcaIae2QyecQI03cF9chXhanxu9eLR7g5dN3fXZS7VZUVu5lCccep72ZwPONQAUfaFz5LiNll3QiAaIB9TdvTumQqgzL0zJc-qTxru0/w1200-h630-p-k-no-nu/Beautiful+Norwegian+Forest+Cat_edited.jpg)
 
 === Do not modify the content above===
 
