@@ -11,12 +11,12 @@
 
 === Copy the above template and paste below and edit it ===
 
-## Richard Lui
-hi i'm richard
+## Tony Chu
+hi i'm Tony
 
-[My Github account](http://www.github.com/cswclui)
+[My Github account](https://github.com/chukahang)
 
-[My Github page](https://cswclui.github.io/my_github_page/)
+[My Github page](https://chukahang.github.io/COMP3122_Class-Exercise/)
 
 
 
@@ -38,10 +38,10 @@ Hello! I am Zheng Shouwen. You can call me Peter.
 
 
 
-## Ching Chun Hung
-I am Ching Chun Hung
+## Lam Ho Yan
+Hi I am Lam Ho Yan :)
 
-[My Github account](https://github.com/SouirTommer)
+[My Github account](https://github.com/Lammmmmmmmmmm)
 
 === Do not modify the content below ===
 
