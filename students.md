@@ -38,10 +38,10 @@ Hello! I am Zheng Shouwen. You can call me Peter.
 
 
 
-## Ching Chun Hung
-I am Ching Chun Hung
+## Lam Ho Yan
+Hi I am Lam Ho Yan :)
 
-[My Github account](https://github.com/SouirTommer)
+[My Github account](https://github.com/Lammmmmmmmmmm)
 
 === Do not modify the content below ===
 
