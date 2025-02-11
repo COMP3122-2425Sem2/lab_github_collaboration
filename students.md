@@ -45,4 +45,16 @@ I am Ching Chun Hung
 
 === Do not modify the content below ===
 
+=== Do not modify the content below ===
+
+## Simon Xu
+I am Simon Xu
+
+[My Github account](https://github.com/yoshino-polyu)
+
+[My Github page](https://github.com/yoshino-polyu/COMP3122-Tasks)
+
+=== Do not modify the content above===
+
+=== Copy the above template and paste below and edit it ===
 
