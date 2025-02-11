@@ -37,7 +37,7 @@ hi i'm Caden
 
 [My Github account](http://www.github.com/ZENGZijianCaden)
 
-[My Github page](https://zengzijiancaden.github.io/GitHub-Page/)
+[My Github page](https://zengzijiancaden.github.io/Github_Page/)
 
 === Do not modify the content above===
 
