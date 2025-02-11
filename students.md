@@ -16,7 +16,7 @@ hi i'm Boyu
 
 [My Github account](http://www.github.com/Zhangboyu-Ian)
 
-[My Github page](https://cswclui.github.io/https:/zhangboyu-ian.github.io/starter_Ian/)
+[My Github page](https://zhangboyu-ian.github.io/starter_Ian/)
 
 
 
